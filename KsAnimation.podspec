@@ -21,16 +21,17 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/khushbu.s@cearsinfotech.com/KsAnimation'
+  s.homepage         = 'https://github.com/khushbu2892/KsAnimation'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'khushbu.s@cearsinfotech.com' => 'khushbu.s@cearsinfotech.com' }
-  s.source           = { :git => 'https://github.com/khushbu.s@cearsinfotech.com/KsAnimation.git', :tag => s.version.to_s }
+  s.author           = { 'khushbu2892' => 'khushbu.s@cearsinfotech.com' }
+  s.source           = { :git => 'https://github.com/khushbu2892/KsAnimation.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '13.0'
+  s.swift_version = '5.0'
 
-  s.source_files = 'KsAnimation/Classes/**/*'
+  s.source_files = 'Classes/**/*'
   
   # s.resource_bundles = {
   #   'KsAnimation' => ['KsAnimation/Assets/*.png']
