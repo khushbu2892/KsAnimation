@@ -1,0 +1,6 @@
+framework module KsAnimation {
+  umbrella header "KsAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}

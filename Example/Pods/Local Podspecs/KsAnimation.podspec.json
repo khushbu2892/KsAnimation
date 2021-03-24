@@ -1,0 +1,22 @@
+{
+  "name": "KsAnimation",
+  "version": "0.1.0",
+  "summary": "A short description of KsAnimation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/khushbu.s@cearsinfotech.com/KsAnimation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "khushbu.s@cearsinfotech.com": "khushbu.s@cearsinfotech.com"
+  },
+  "source": {
+    "git": "https://github.com/khushbu.s@cearsinfotech.com/KsAnimation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "KsAnimation/Classes/**/*"
+}

@@ -7,18 +7,18 @@
 //
 
 import UIKit
+import KsAnimation
 
 class ViewController: UIViewController {
-
+    @IBOutlet var vwBg: UIView!
+  let selectColor = animation()
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+       
     }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    
+    @IBAction func btnChangeColorClick(_ sender: Any) {
+        selectColor.setGradientBackground(colorTop: .clear, colorBottom: .blue, view: vwBg)
     }
-
 }
 

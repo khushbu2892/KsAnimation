@@ -1,0 +1,16 @@
+PODS:
+  - KsAnimation (0.1.0)
+
+DEPENDENCIES:
+  - KsAnimation (from `../`)
+
+EXTERNAL SOURCES:
+  KsAnimation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KsAnimation: 0be53218cf04162feaaa1bf8d585630b767211c5
+
+PODFILE CHECKSUM: 79ef7a21453a2cfdd3246a79989f9429c989ea9e
+
+COCOAPODS: 1.10.0
