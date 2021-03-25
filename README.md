@@ -22,7 +22,7 @@ pod 'KsAnimation'
 
 ## Author
 
-khushbu.s@cearsinfotech.com, khushbu.s@cearsinfotech.com
+khushbu2892, khushbu.s@cearsinfotech.com
 
 ## License
 
