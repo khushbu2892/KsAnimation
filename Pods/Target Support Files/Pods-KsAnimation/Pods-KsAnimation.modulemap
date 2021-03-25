@@ -1,0 +1,6 @@
+framework module Pods_KsAnimation {
+  umbrella header "Pods-KsAnimation-umbrella.h"
+
+  export *
+  module * { export * }
+}
